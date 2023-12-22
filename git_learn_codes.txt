@@ -12,6 +12,8 @@ git clone url | directory from git
 git status - show changed files
 git add . | -A | file_name - those 2 methods adds to git all changed files
 git reset . | -A | file_name - removes changed files from git add
+
 git commit -m "comment for commit" - commits files for pushing
+git push origin branch_name - pushs news to git
 git log - shows detailed previous git commits
 git log --oneline - shows short previous git commits
