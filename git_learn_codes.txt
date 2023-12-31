@@ -19,3 +19,5 @@ git push origin branch_name - pushs news to git
 
 git log - shows detailed previous git commits
 git log --oneline - shows short previous git commits
+
+rm -r *.py - deletes all python files. You can use other types also such as .txt etc...
